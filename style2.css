@@ -1,9 +1,3 @@
-/*
-company by Adnen Kadri from the Noun Project
-https://use.fontawesome.com/releases/v5.0.9/svgs/solid/briefcase.svg
-
-*/
-
 body,
 input {
   font-family: "Helvetica Neue" , Helvetica, Arial, sans-serif;
@@ -87,47 +81,33 @@ textarea {
 
 /* b2b access */
 #category-38 {
-  background-image: url(//i.imgur.com/ItA9s0E.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/b2b.png);
 }
 
 /* learning */
 #category-19 {
-  background-image: url(//i.imgur.com/eMJqDDB.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/edu.png);
 }
 
 /* code */
 #category-8 {
-  background-image: url(//i.imgur.com/k4L5vBD.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/code.png);
 }
 
 /* account */
 #category-11 {
-  background-image: url(//i.imgur.com/4DxXTRQ.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/account.png);
 }
 
 /* projects */
 #category-26 {
-  background-image: url(//i.imgur.com/zlt7Bxu.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/projects.png);
 }
 
 /* payments */
 #category-13 {
-  background-image: url(//i.imgur.com/cN7Kxsa.png);
+  background-image: url(https://hexlet.github.io/helpdesk-styles/pay.png);
 }
-
-/* Docs collection icons */
-#category-41 {
-  background-image: url(//d2x2losda9vsjs.cloudfront.net/docs/assets/work-with-docs.png);
-}
-
-#category-126 {
-  background-image: url(//d2x2losda9vsjs.cloudfront.net/docs/assets/managing-docs.png);
-}
-
-#category-217 {
-  background-image: url(//d2x2losda9vsjs.cloudfront.net/docs/assets/formatting.png);
-}
-
 
 .category-list .category:hover {
   background-color: #fff;
