@@ -152,7 +152,13 @@ textarea {
   background: #dcbc2c; /* yellow-400 */
 }
 .category-list .category:nth-child(4n+4):before {
-  background: #4b0082; /* indigo */
+  background: #ff715b; /* orange-pink */
+}
+.category-list .category:nth-child(4n+5):before {
+  background: #c94c85; /* pink */
+}
+.category-list .category:nth-child(4n+6):before {
+  background: #19ab7f; /* greenish */
 }
 
 #collection-category-8 .category-list .category:nth-child(4n+1):before,
