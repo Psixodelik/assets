@@ -19,13 +19,9 @@ textarea {
   -webkit-appearance: none;
 }
 /* HEADER */
-#mainNav .brand span {
-  background: url(//d2x2losda9vsjs.cloudfront.net/docs-hs-logo-white.svg) no-repeat 0 0;
-  background-size: 100%;
-  display: inline-block;
-  height: 30px;
-  text-indent: -9000px;
-  width: 155px;
+#mainNav .brand img {
+  height: 46px;
+  width: auto;
 }
 .navbar .brand {
   padding: 15px 20px 15px 0;
