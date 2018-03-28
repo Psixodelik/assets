@@ -1,0 +1,61 @@
+
+body {
+    background: #fcfcfc;
+}
+
+
+#searchBar button {
+    color: #fff;
+    text-shadow: 0 -1px 1px rgba(0,0,0,.4);
+    background: #83c11f;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid #83c11f;
+}
+
+#searchBar button:hover {
+    background: #8aca23;
+}
+
+.most-pop-articles {
+    max-width: 100%;
+}
+
+.category-list .category {
+    background-color: #337ab7;
+    color: white;
+}
+
+.category-list .category:hover {
+    background: #26506B;
+}
+
+#docsSearch h1 {
+    color: #ffffff;
+}
+
+#docsSearch {
+    background: #337ab7;
+    text-align: center;
+}
+
+.collection-category h2 a {
+    color: #515151;
+}
+
+.collection-category{
+margin-top:20px;
+}
+
+.category-list h3 {
+    color: #fff;
+}
+
+.article-count {
+    color: #ffffff !important;
+}
+
+.collection-category {
+    margin-top: 20px;
+    background-color: white;
+    padding:20px;
+}
