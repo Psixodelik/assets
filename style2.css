@@ -43,6 +43,7 @@ textarea {
 }
 .navbar .nav .active a {
   text-decoration: underline;
+  color: white;
 }
 
 .navbar .nav .active a:hover {
