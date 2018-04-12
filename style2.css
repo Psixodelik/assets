@@ -32,7 +32,7 @@ textarea {
 }
 .navbar .nav li a,
 .navbar .icon-private-w {
-  color: #AEDFFF;
+  color: white;
 }
 .navbar .nav li a {
   padding: 14px 15px;
@@ -42,11 +42,16 @@ textarea {
   box-shadow: none;
 }
 .navbar .nav .active a {
-  color: white
+  text-decoration: underline;
+}
+
+.navbar .nav .active a:hover {
+  color: white;
 }
 
 .navbar .nav li a:hover {
   color: white;
+  text-decoration: underline;
 }
 
 .navbar .nav .active .caret {
