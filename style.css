@@ -3,6 +3,9 @@ body {
     background: #fcfcfc;
 }
 
+#mainNav .brand img {
+    max-height: 80%;
+}
 
 #searchBar button {
     color: #fff;
